@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "**Uptime Monitor**"
-  introMessage: This is a status page which uses **real-time** data powered by [Adarsh](https://github.com/adarsh-goel) 
+  introMessage: This is a status page which uses **real-time** data Owned by [Adarsh](https://github.com/adarsh-goel).
   navbar:
     - title: Status
       href: /
