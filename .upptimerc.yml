@@ -15,11 +15,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.itsadarsh.tech
-  baseUrl: /uptime
+  cname: status.itsadarsh.tech
+  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
-  introTitle: "**Uptime Monitor**."
+  introTitle: "**Uptime Monitor**"
   introMessage: This is a status page which uses **real-time** data powered by [Adarsh](https://github.com/adarsh-goel) 
   navbar:
     - title: Status
