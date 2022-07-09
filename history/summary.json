@@ -58,19 +58,19 @@
     "url": "$CLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 1812,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 447,
+    "timeDay": 1379,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-07-09": 0
+      "2022-07-09": 11
     }
   }
 ]
