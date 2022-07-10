@@ -13,7 +13,7 @@ sites:
   - name: Udemy Coupons
     url: https://udemy.itsadarsh.tech
 status-website:
-  customBodyHtml: ""<span class="quote" id="quote"></span>"<p class="author" id="author"></p></span></center><script src="https://adarsh-goel.github.io/resources/script.js"></script>"
+  #customBodyHtml: ""<span class="quote" id="quote"></span>"<p class="author" id="author"></p></span></center><script src="https://adarsh-goel.github.io/resources/script.js"></script>"
   theme: night
   cname: status.itsadarsh.tech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
