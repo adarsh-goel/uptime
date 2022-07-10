@@ -13,7 +13,7 @@ sites:
   - name: Udemy Coupons
     url: https://udemy.itsadarsh.tech
 status-website:
-  theme: ocean
+  theme: dark
   cname: status.itsadarsh.tech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
