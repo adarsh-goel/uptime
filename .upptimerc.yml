@@ -1,6 +1,5 @@
-# Change these first
-owner: adarsh-goel # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: adarsh-goel
+repo: uptime
 
 sites:
   - name: Portfolio
@@ -11,16 +10,15 @@ sites:
     url: $QBIT
   - name: Cloud Server
     url: $CLOUD
-
+  - name: Udemy Coupons
+    url: https://udemy.itsadarsh.tech
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: ocean
   cname: status.itsadarsh.tech
-  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "**Uptime Monitor**"
-  introMessage: This is a status page which uses **real-time** data Owned by [Adarsh](https://github.com/adarsh-goel).
+  introMessage: This is a status page which actively checks uptime of services and notifies incase of downtime.
   navbar:
     - title: Status
       href: /
@@ -28,5 +26,3 @@ status-website:
       href: https://github.com/$OWNER
   assignees:
   - adarsh-goel
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
