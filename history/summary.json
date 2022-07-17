@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 61,
-    "timeWeek": 101,
+    "timeWeek": 76,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 838,
     "timeDay": 614,
-    "timeWeek": 868,
+    "timeWeek": 830,
     "timeMonth": 838,
     "timeYear": 838,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 54,
-    "timeWeek": 185,
+    "timeWeek": 170,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "$CLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
     "timeDay": 6638,
-    "timeWeek": 933,
+    "timeWeek": 1186,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 0
+    }
   },
   {
     "name": "Udemy Coupons",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 59,
-    "timeWeek": 165,
+    "timeWeek": 159,
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {}
