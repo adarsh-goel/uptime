@@ -58,7 +58,7 @@
     "url": "$CLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1165,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "Udemy Coupons",
